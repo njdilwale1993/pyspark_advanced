@@ -1,0 +1,15 @@
+{
+	"name": "db-ADF-factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66f74c96-76d2-4aa6-bb88-a2543bc82edf",
+		"tenantId": "8441a910-721e-4156-92c4-398756a83371"
+	}
+}
